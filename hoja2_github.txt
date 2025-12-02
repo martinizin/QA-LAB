@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 Cambio rama 2
-=======
 hola desde UIO version 4
->>>>>>> ca8efe13f9705604ffaa67607602f425591f2ac3
+
